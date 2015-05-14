@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[http://dummyimage.com/${1:800}x${2:600}/4d494d/686a82.gif&text=${3:placeholder+image}$0]]></content>
+	<tabTrigger>src</tabTrigger>
+	<description>Image - Placeholder src</description>
+</snippet>

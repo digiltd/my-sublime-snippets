@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+${1:/js/holder.js/}${2:300}x${3:200}/${4:auto/}${5:sky/vine/lava/gray/industrial/social}/#${6:000000}:#${7:FFFFFF}/text:${8:hello world}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>holder_js-snippet</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<description>Holder.js syntax helper snippet. Holder.js (https://github.com/imsky/holder) is the best tool for making placeholder images.</description>
+</snippet>
