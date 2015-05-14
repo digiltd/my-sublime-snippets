@@ -1,6 +1,5 @@
 <snippet>
 	<content><![CDATA[
-Hello, ${1:this} is a ${2:snippet}.
  printf( '<${1:span}>%s</${1:span}>', ${2:var} ) );
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
