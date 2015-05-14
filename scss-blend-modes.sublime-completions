@@ -1,0 +1,25 @@
+		{
+		"scope": "source.sass meta.property-list.css.sass - variable.other.value, source.scss meta.property-list.css.sass - variable.other.value",
+
+		"completions": [
+			"normal",
+			"multiply",
+			"screen",
+			"overlay",
+			"darken",
+			"lighten",
+			"color-dodg",
+			"color-burn",
+			"hard-light",
+			"soft-light",
+			"difference",
+			"exclusion",
+			"hue",
+			"saturation",
+			"color",
+			"luminosity",
+			"initial",
+			"inherit",
+			"unset"
+		]
+		}

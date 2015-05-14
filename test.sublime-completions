@@ -1,0 +1,32 @@
+{
+   "scope": "source.scss variable.other.root",
+
+   "completions":
+   [
+     <!--  { "trigger": "a", "contents": "<a href=\"$1\">$0</a>" },
+      { "trigger": "abbr\t<abbr>", "contents": "<abbr>$0</abbr>" },
+      { "trigger": "acronym", "contents": "<acronym>$0</acronym>" }
+ -->
+
+
+{ "trigger": "mmmx", "contents" : "normal" },
+{ "trigger": "mmmx", "contents" : "multiply" },
+{ "trigger": "mmmx", "contents" : "screen" },
+{ "trigger": "mmmx", "contents" : "overlay" },
+{ "trigger": "mmmx", "contents" : "darken" },
+{ "trigger": "mmmx", "contents" : "lighten" },
+{ "trigger": "mmmx", "contents" : "color-dodg" },
+{ "trigger": "mmmx", "contents" : "color-burn" },
+{ "trigger": "mmmx", "contents" : "hard-light" },
+{ "trigger": "mmmx", "contents" : "soft-light" },
+{ "trigger": "mmmx", "contents" : "difference" },
+{ "trigger": "mmmx", "contents" : "exclusion" },
+{ "trigger": "mmmx", "contents" : "hue" },
+{ "trigger": "mmmx", "contents" : "saturation" },
+{ "trigger": "mmmx", "contents" : "color" },
+{ "trigger": "mmmx", "contents" : "luminosity" },
+{ "trigger": "mmmx", "contents" : "initial" },
+{ "trigger": "mmmx", "contents" : "inherit" },
+{ "trigger": "mmmx", "contents" : "unset" }
+   ]
+}
