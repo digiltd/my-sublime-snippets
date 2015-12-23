@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+rule "${1:this}"
+when
+    Item ${2:item} ${3:condition}
+then
+    ${4:action}
+end
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>rule</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>
